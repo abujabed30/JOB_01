@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="GitBash_GithubTutarial1" />
+        <module name="Local_Repository10" />
       </profile>
     </annotationProcessing>
   </component>
