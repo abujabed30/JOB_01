@@ -1,0 +1,16 @@
+url=http://automationpractice.com/index.php?controller=authentication&back=my-account
+Browser=chrome
+url1=https://jqueryui.com/menu/
+email=javeedtiktok@gmail.com
+passwrd=kamala
+url2=https://text-compare.com/
+url3=https://www.ebay.com/
+url4=https://docs.oracle.com/javase/7/docs/api/
+url5=http://demo.automationtesting.in/Frames.html
+url6=https://demoqa.com/browser-windows
+url7=https://demoqa.com/select-menu
+url8=https://demo.guru99.com/test/delete_customer.php
+
+Databasename=mysql.com
+Databasenameuserid=mysql
+passwrd=root
